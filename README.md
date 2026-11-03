@@ -19,7 +19,7 @@
 ### **UpWebTech**
 `Digital Solutions Agency`
 
-📍 Varanasi, India
+📍 Lucknow, India
 🟢 *Available for projects*
 
 ---
