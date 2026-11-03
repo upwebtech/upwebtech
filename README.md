@@ -1,3 +1,8 @@
+<!-- ===== LOGO HERO ===== -->
+<div align="center">
+  <img src="./assets/logo.png" width="380" alt="UpWebTech Logo" />
+</div>
+
 <!-- ===== 3D HEADER ===== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=gradient&customColorList=12,20,24,30&text=UpWebTech&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=We%20Build%20Modern%20Websites%20%26%20Apps&descSize=22&descAlignY=60" />
@@ -14,7 +19,7 @@
 <!-- ---------- LEFT SIDEBAR ---------- -->
 <td width="26%" valign="top" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/351839335?v=4" width="120" style="border-radius:50%" />
+<img src="./assets/logo.png" width="160" alt="UpWebTech" />
 
 ### **UpWebTech**
 `Digital Solutions Agency`
